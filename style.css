@@ -6,7 +6,7 @@ header{
 	margin-left: 151px;
 	margin-right: 151px;
 	height: 500px;
-	border:1px solid;
+	border: 1px solid;
 }
 
 .logo{
@@ -21,7 +21,7 @@ header{
 }
 .button{
 	display: inline-block;
-	margin-left: 135px;
+	margin-left: 120px;
 }
 .button:hover{
 	border-bottom: 1px solid;
@@ -35,4 +35,8 @@ header{
 a{
 	text-decoration: none;
 	color:black;
+}
+.search{
+	display: inline-block;
+	margin-left: 120px;
 }
